@@ -21,7 +21,7 @@ public class UI {
                          System.out.println("El resultado es: " + calcu.suma(n1, n2));
                          // SIUUUUUUUUUUU
                          System.out.println("SIUUUUUUUUU");
-                         //// SIUuuuuuuuuuuu
+                         //// SIUuuuuuuuuuuuUUUUUU
 
                          break;
 
