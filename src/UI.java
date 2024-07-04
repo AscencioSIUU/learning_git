@@ -1,7 +1,10 @@
+package src;
+
 import java.util.Scanner;
 
 public class UI {
      public static void main(String[] args) {
+          Calc calcu = new Calc();
           System.out.println("LA MEJOR CALCU");
           Scanner teclado = new Scanner(System.in);
           int operacion, n1, n2;
@@ -14,7 +17,7 @@ public class UI {
                          n1 = teclado.nextInt();
                          System.out.println("Ingrese Segundo Numero");
                          n2 = teclado.nextInt();
-
+                         calcu.suma(n1, n2);
                          break;
 
                     case 2:
@@ -22,7 +25,7 @@ public class UI {
                          n1 = teclado.nextInt();
                          System.out.println("Ingrese Segundo Numero");
                          n2 = teclado.nextInt();
-
+                         calcu.resta(n1, n2);
                          break;
 
                     case 3:
