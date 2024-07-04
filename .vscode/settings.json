@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "/Users/hp/learning_git-1/test-lib/hamcrest-core-1.3.jar",
+        "/Users/hp/learning_git-1/test-lib/junit-4.13.2.jar"
+    ]
+}

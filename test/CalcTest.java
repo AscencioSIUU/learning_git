@@ -1,5 +1,9 @@
+package test;
+
 import org.junit.Assert;
 import org.junit.Test;
+
+import src.Calc;
 
 public class CalcTest {
     @Test
