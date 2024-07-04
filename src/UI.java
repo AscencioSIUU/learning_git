@@ -19,8 +19,15 @@ public class UI {
                          System.out.println("Ingrese Segundo Numero");
                          n2 = teclado.nextInt();
                          System.out.println("El resultado es: " + calcu.suma(n1, n2));
+<<<<<<< HEAD
 
                          // NO SIUUUUUUUUU
+=======
+                         // SIUUUUUUUUUUU
+                         System.out.println("SIUUUUUUUUU");
+                         //// SIUuuuuuuuuuuuUUUUUU
+
+>>>>>>> 60f6e69e3a287d5a3293a03f3c2b2d4be42ea57c
                          break;
 
                     case 2:
