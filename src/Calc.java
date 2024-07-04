@@ -1,4 +1,4 @@
-package src;
+
 
 public class Calc {
     public int suma(int n1, int n2){
